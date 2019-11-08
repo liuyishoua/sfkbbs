@@ -3,7 +3,6 @@ MySQL Backup
 Database: sfkbbs
 Backup Time: 2019-11-08 21:17:46
 */
-
 SET FOREIGN_KEY_CHECKS=0;
 DROP TABLE IF EXISTS `sfkbbs`.`sfk_content`;
 DROP TABLE IF EXISTS `sfkbbs`.`sfk_father_module`;
