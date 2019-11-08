@@ -29,15 +29,21 @@ www文件夹目录下
     
 # 项目展示
 
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E4%B8%BB%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
 主页
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E4%B8%BB%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
 
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%A8%A1%E5%9D%97%E5%88%97%E8%A1%A8%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+
 模块列表页
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%A8%A1%E5%9D%97%E5%88%97%E8%A1%A8%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
 
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E8%AF%84%E8%AE%BA%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+
+
 评论页
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E8%AF%84%E8%AE%BA%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
 
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E7%AE%A1%E7%90%86%E5%91%98%E9%A1%B5%E9%9D%A2.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+
+
 管理员页面
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E7%AE%A1%E7%90%86%E5%91%98%E9%A1%B5%E9%9D%A2.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+
 
