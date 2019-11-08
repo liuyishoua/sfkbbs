@@ -12,6 +12,7 @@ php+mysql，使用wamp集成开发环境进行开发
     
     2、将根目录的文件db.sql导入mysql数据库中
 ![image](https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5.png)
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5.png" width="500" height="500" alt="图片加载失败时，显示这段字"/>
     3、
     
 # 项目展示
