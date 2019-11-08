@@ -11,7 +11,7 @@ php+mysql，使用wamp集成开发环境进行开发
     1、使用git命令将代码复制到本地
     
     2、将根目录的文件db.sql导入mysql数据库中
-     ![image](https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5.png)
+![image](https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5.png)
     3、
     
 # 项目展示
