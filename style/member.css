@@ -1,0 +1,16 @@
+#main #right .member_big {
+  margin:20px auto 0 auto;
+  width:180px;
+}
+#main #right .member_big dl dd {
+    line-height:150%;
+}
+#main #right .member_big dl dd a {
+    color:#333;
+}
+#main #right .member_big dl dd.name {
+    font-size: 22px;
+    font-weight: 400;
+    line-height:140%;
+    padding:5px 0 10px 0px;
+}
