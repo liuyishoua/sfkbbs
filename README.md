@@ -22,28 +22,35 @@ php+mysql，使用wamp集成开发环境进行开发
     5、开启wamp服务，浏览器访问localhost，显示出主页，成功！！！
 
 导入mysql数据库使用命令：
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5.png" width="850" height="500" alt="图片加载失败时，显示这段字"/>
 
 www文件夹目录下
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95.png" width="850" height="500" alt="图片加载失败时，显示这段字"/>
     
 # 项目展示
 
+
 主页
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E4%B8%BB%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E4%B8%BB%E9%A1%B5.png" width="850" height="500" alt="图片加载失败时，显示这段字"/>
+
+
 
 
 模块列表页
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%A8%A1%E5%9D%97%E5%88%97%E8%A1%A8%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E6%A8%A1%E5%9D%97%E5%88%97%E8%A1%A8%E9%A1%B5.png" width="850" height="500" alt="图片加载失败时，显示这段字"/>
+
+
 
 
 
 评论页
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E8%AF%84%E8%AE%BA%E9%A1%B5.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E8%AF%84%E8%AE%BA%E9%A1%B5.png" width="850" height="500" alt="图片加载失败时，显示这段字"/>
+
+
 
 
 
 管理员页面
-<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E7%AE%A1%E7%90%86%E5%91%98%E9%A1%B5%E9%9D%A2.png" width="850" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/liuyishoua/sfkbbs/blob/master/readme-img/%E7%AE%A1%E7%90%86%E5%91%98%E9%A1%B5%E9%9D%A2.png" width="850" height="500" alt="图片加载失败时，显示这段字"/>
 
 
