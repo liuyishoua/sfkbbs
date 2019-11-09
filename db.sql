@@ -34,7 +34,7 @@ CREATE TABLE `sfk_manage` (
   `create_time` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-CREATE TABLE `sfk_member` (
+CREATE TABLE `sfk_member` ( 
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
   `pw` varchar(255) DEFAULT NULL,
